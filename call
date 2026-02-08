@@ -1,0 +1,13 @@
+OnlineVoiceCallApp/
+├── app/
+│   ├── src/main/java/com/onlinecall/app/
+│   │   ├── MainActivity.kt
+│   │   ├── CallActivity.kt
+│   │   ├── WebRTCClient.kt
+│   │   └── FirebaseClient.kt
+│   ├── src/main/res/layout/
+│   │   ├── activity_main.xml
+│   │   └── activity_call.xml
+│   └── AndroidManifest.xml
+├── build.gradle
+└── settings.gradle
